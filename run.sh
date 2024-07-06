@@ -1,0 +1,1 @@
+k6 run -e BASE_URL=https://test-api.k6.io http-post.js
